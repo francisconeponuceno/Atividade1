@@ -60,6 +60,7 @@ while True:
     else:
         print('Opção inválida! Digite apenas 1, 2 ou 3')
 
-
-print(f'**SUAS CARACTERÍSTICAS DE VIAGEM E {clima}, {ambiente} e {orcamento}***')
+print('\n')
+print(f'SUAS CARACTERÍSTICAS DE VIAGEM E {clima}, {ambiente} e {orcamento}')
+print('=================== FIM DO PROGRAMA ====================')
 print("\n")
