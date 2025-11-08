@@ -1,0 +1,123 @@
+# BASE DE DADOS / LISTA COM DICIONÁRIOS QUE CONTÉN CIDADES MAIS QUENTES, ORÇAMENTO,CLIMA E AMBIENTE
+CidadesQuente = [
+    {
+        "Cidade": "Cuiabá (MT)",
+        "Orçamento": 1865,
+        "Clima": "Clima Tropical Quente e Semiúmido (Aw): Temperaturas consistentemente altas o ano todo, com estação chuvosa (verão) e estação seca (inverno), onde o calor é intenso e a umidade do ar cai drasticamente.",
+        "Ambiente": "Urbana",
+    },
+    {
+        "Cidade": "Teresina (PI)",
+        "Orçamento": 1699,
+        "Clima": 'Clima Tropical Semiúmido (As): Extremo calor durante a maior parte do ano, especialmente no "B-R-O Bró" (Setembro a Dezembro). Verão chuvoso e inverno seco e muito quente.',
+        "Ambiente": "Urbana",
+    },
+    {
+        "Cidade": "Água Clara (MS)",
+        "Orçamento": 1089,
+        "Clima": "Clima Tropical Quente (Aw): Temperaturas elevadas, com máximas que frequentemente ultrapassam os 40°C, especialmente em períodos de onda de calor e durante a estação seca.",
+        "Ambiente": "Natureza",
+    },
+    {
+        "Cidade": "Porto Murtinho (MS)",
+        "Orçamento": 676,
+        "Clima": "Clima Tropical (Aw): Quente e com altos registros de máximas, influenciado pela proximidade com o Pantanal, o que pode aumentar a sensação de abafamento em períodos úmidos.",
+        "Ambiente": "Natureza",
+    },
+    {
+        "Cidade": "São Romão (MG)",
+        "Orçamento": 1968,
+        "Clima": "Clima Semiárido/Tropical: Altas temperaturas, com forte insolação e longos períodos de seca, característico do interior nordestino e partes do norte de Minas.",
+        "Ambiente": "Natureza",
+    },
+    {
+        "Cidade": "Nhumirim (MS)",
+        "Orçamento": 1007,
+        "Clima": "Clima Tropical: Localizada no Pantanal, registra picos de calor extremo, com grande variação entre as máximas diárias e a noite.",
+        "Ambiente": "Natureza",
+    },
+    {
+        "Cidade": "Paranaíba (MS)",
+        "Orçamento": 1540,
+        "Clima": "Clima Tropical: Cidade com temperaturas elevadas, notável pelos picos de calor em ondas quentes, com baixa umidade na estação seca.",
+        "Ambiente": "Urbana",
+    },
+    {
+        "Cidade": "Rondonópolis (MT)",
+        "Orçamento": 1579,
+        "Clima": "Clima Tropical (Aw): Altas temperaturas médias, com calor intenso e pouca variação térmica diária no verão, e invernos secos e quentes.",
+        "Ambiente": "Urbana",
+    },
+    {
+        "Cidade": "Sidrolândia (MS)",
+        "Orçamento": 1020,
+        "Clima": "Clima Tropical: Apresenta calor significativo, com termômetros subindo muito durante o dia, sobretudo em épocas de estiagem e forte atuação de massas de ar quente.",
+        "Ambiente": "Urbana",
+    },
+    {
+        "Cidade": "Barra (BA)",
+        "Orçamento": 1389,
+        "Clima": "Clima Semiárido Quente (Bsh): Calor muito intenso e seco, com altos índices de radiação solar e escassez de chuvas durante grande parte do ano.",
+        "Ambiente": "Natureza",
+    },
+    {
+        "Cidade": "Cabrobó (PE)",
+        "Orçamento": 889,
+        "Clima": "Clima Semiárido Quente (Bsh): Caracterizado pelo calor extremo e baixa pluviosidade, típico do Sertão nordestino.",
+        "Ambiente": "Natureza",
+    },
+    {
+        "Cidade": "Oeiras (PI)",
+        "Orçamento": 465,
+        "Clima": "Clima Semiúmido Quente: Foi a primeira capital do Piauí. Clima muito quente, com longos períodos de calor e precipitação concentrada.",
+        "Ambiente": "Urbana",
+    },
+    {
+        "Cidade": "Ibotirama (BA)",
+        "Orçamento": 443,
+        "Clima": "Clima Semiárido: Calor constante, com temperaturas elevadas e regime de chuvas irregular, contribuindo para a secura e o calorão.",
+        "Ambiente": "Natureza",
+    },
+    {
+        "Cidade": "Três Lagoas (MS)",
+        "Orçamento": 702,
+        "Clima": "Clima Tropical: Calor acentuado, com forte influência de massas de ar quente, especialmente em períodos de bloqueio atmosférico.",
+        "Ambiente": "Natureza",
+    },
+    {
+        "Cidade": "Salgueiro (PE)",
+        "Orçamento": 826,
+        "Clima": "Clima Semiárido: Registra máximas muito altas. O sol forte e a baixa umidade do Sertão nordestino são as principais características.",
+        "Ambiente": "Urbana",
+    },
+    {
+        "Cidade": "Pão de Açúcar (AL)",
+        "Orçamento": 1603,
+        "Clima": "Clima Semiárido: Temperaturas elevadas o ano todo, com forte insolação e baixa nebulosidade, intensificando a sensação de calor.",
+        "Ambiente": "Natureza",
+    },
+    {
+        "Cidade": "Castelo do Piauí (PI)",
+        "Orçamento": 1064,
+        "Clima": "Clima Tropical Semiúmido: Apresenta calor intenso, sendo uma das cidades que registra picos de temperatura no Nordeste.",
+        "Ambiente": "Natureza",
+    },
+    {
+        "Cidade": "Paulistana (PI)",
+        "Orçamento": 1249,
+        "Clima": "Clima Semiárido: Calor intenso e persistente, com índice pluviométrico baixo, típico do interior do Piauí.",
+        "Ambiente": "Urbana",
+    },
+    {
+        "Cidade": "Caicó (RN)",
+        "Orçamento": 1946,
+        "Clima": "Clima Semiárido: Uma das cidades mais quentes do Rio Grande do Norte, com calor predominante e chuvas escassas e irregulares.",
+        "Ambiente": "Urbana",
+    },
+    {
+        "Cidade": "Floresta (PE)",
+        "Orçamento": 1378,
+        "Clima": "Clima Semiárido: Muito quente, com temperaturas máximas altas, reflexo da localização no coração do Sertão.",
+        "Ambiente": "Natureza",
+    },
+]
